@@ -21,4 +21,4 @@
 | threads                | §16.1        | DONE  |
 | macros                 | §19.6        | DONE  |
 | clippy                 | n/a          | DONE  |
-| conversions            | n/a          |       |
+| conversions            | n/a          | DONE  |
